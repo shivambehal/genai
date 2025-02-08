@@ -1,0 +1,30 @@
+<sentence_structures>
+    <structure>
+        <example>Did you see the raven this morning?</example>
+        <pattern>[Verb - past] + [Subject] + [Object] + [Time expression]?</pattern>
+    </structure>
+    <structure>
+        <example>They were looking at our garden.</example>
+        <pattern>[Subject] + [Verb - past] + [Preposition] + [Possessive adjective] + [Object].</pattern>
+    </structure>
+    <structure>
+        <example>Did she find the book yesterday?</example>
+        <pattern>[Verb - past] + [Subject] + [Object] + [Time expression]?</pattern>
+    </structure>
+    <structure>
+        <example>We were waiting at the bus stop.</example>
+        <pattern>[Subject] + [Verb - past] + [Preposition] + [Object].</pattern>
+    </structure>
+    <structure>
+        <example>He ate the apple before noon.</example>
+        <pattern>[Subject] + [Verb - past] + [Object] + [Time expression].</pattern>
+    </structure>
+    <structure>
+        <example>Were they walking in the park?</example>
+        <pattern>[Verb - past] + [Subject] + [Preposition] + [Object]?</pattern>
+    </structure>
+    <structure>
+        <example>I called my friend last night.</example>
+        <pattern>[Subject] + [Verb - past] + [Possessive adjective] + [Object] + [Time expression].</pattern>
+    </structure>
+</sentence_structures>
