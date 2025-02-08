@@ -80,8 +80,10 @@ When the input sounds like a question about langauge learning then we can assume
 - try and provide a non-nested bulletpoint list of clues and considerations.
 - talk about the vocabulary but try to leave out french words because the students can refer to the vocabulary table for that.
 
-## Example
-- please see attached example.xml file
+## Teacher Tests
+Please read this file so you can see more examples to provide better output french-teaching-tests.md
 
-Student Input: Did you see the raven this morning? They were looking at our garden.
-
+## Last Checks
+- Make sure you read all the example files tell me that you have.
+- Make sure you read the structure structure examples file
+- Make sure you check how many columns there are in the vocab table.

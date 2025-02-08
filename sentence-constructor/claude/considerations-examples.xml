@@ -1,0 +1,79 @@
+<examples>
+    <example>
+        <output>
+Clues and considerations:
+* Think about past tense formation
+* Consider question word placement
+* Remember subject-verb agreement
+* Think about time expression placement
+* For possessives, consider gender agreement
+* Don't forget about article usage
+* Consider formal vs informal "you"
+* Remember adjective agreement rules
+* Think about negative form construction
+* Consider pronoun placement
+        </output>
+        <score>4</score>
+        <score_reason>
+            This example scores poorly because it:
+            - Lists too many grammar points at once
+            - Overwhelms the A1 learner with technical terms
+            - Doesn't focus on the immediate task
+            - Makes the exercise seem more complex than necessary
+        </score_reason>
+    </example>
+
+    <example>
+        <output>
+Next Steps:
+* This question uses past tense - think about when to use "avoir" vs "être"
+* Try breaking it into: question word + basic sentence
+* Ask if you need help with verb endings
+        </output>
+        <score>10</score>
+        <score_reason>
+            This example scores perfectly because it:
+            - Focuses on the key elements needed for the current sentence
+            - Provides clear, actionable steps
+            - Keeps technical language to a minimum
+            - Maintains beginner-friendly tone
+        </score_reason>
+    </example>
+
+    <example>
+        <output>
+Clues and considerations:
+* The sentence has two parts connected with "et" (and)
+* Both parts use different tenses
+* Remember to consider formal vs informal address
+* Think about gender agreement with possessives
+* Consider proper article usage before nouns
+* Don't forget about adjective placement
+        </output>
+        <score>6</score>
+        <score_reason>
+            This example scores moderately because it:
+            - Still includes too many grammar points
+            - However, it does focus on relevant sentence elements
+            - Could be more concise
+            - Needs more specific guidance
+        </score_reason>
+    </example>
+
+    <example>
+        <output>
+Next Steps:
+* Split into two parts: description + action
+* Think about which word shows time (this morning)
+* Ask if you need help with question formation
+        </output>
+        <score>10</score>
+        <score_reason>
+            This example scores perfectly because it:
+            - Provides clear, minimal steps
+            - Focuses on immediate task needs
+            - Avoids overwhelming technical terms
+            - Gives actionable guidance
+        </score_reason>
+    </example>
+</examples>
