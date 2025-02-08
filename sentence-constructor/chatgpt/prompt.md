@@ -12,7 +12,7 @@ CEFR A1 (Beginner)
 - Provide us a table of vocabulary.
 - Provide words in their dictionary form, student need to figure out conjugations and tenses.
 - Provide a possible sentence structure.
-
+- when the student makes attempt, interpet their reading so they can see what that actually said
 
 ## Formating Instructions
 
