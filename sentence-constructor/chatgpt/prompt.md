@@ -49,56 +49,7 @@ I called my friend last night. → [Subject] + [Verb - past] + [Possessive adjec
 - talk about the vocabulary but try to leave out french words because the students can refer to the vocabulary table for that.
 
 ## Example
-
-
-Here are examples of user input and assitant output, pay attention to the scores for the example and why they were given.
-
-<example>
-
-    <user:input>
-
-        Bears are at the door, did you leave the garbage out?
-
-    </user:input>
-
-    <score>7</score>
-
-    <score_reasons>
-
-    - BAD: the beginner sentence is uncessary(Let's break down the sentence into smaller parts. Here's a table with some vocabulary that might be helpful), should just start showing the vocabulary table
-  
-    - BAD: Verb conjugation information was lacking, which might be challenging for a CEFR A1 student.
-  
-    - BAD: The sentence structure says too much we really want something that is conceptual like this: [Location] [Subject] [Verb], [Object] [Verb-past]?
-  
-    - GOOD: A table with relevant vocabulary, including verbs, adverbs, and adjectives, was provided.
-  
-    - GOOD: The assistant asked the student to try to put the words together to form a sentence in French.
-  
-    </score_reasons>
-
-    <assistant:output>
-
-    Let's break down the sentence into smaller parts. Here's a table with some vocabulary that might be helpful:
-    English	| French
-    bear	| ours
-    to be	| être
-    at	    | (think about prepositions!)
-    door	| porte
-    did	    | (think about verb conjugation!)
-    leave	| laisser
-    garbage	| déchets
-    out	    | (think about prepositions!)
-
-    Now, let's think about the sentence structure. We have two parts to the sentence: "Bears are at the door" and "did you leave the garbage out?".
-    Possible sentence structure:
-    Part 1: Subject (bears) + verb (to be) + preposition (at) + object (door)
-    Part 2: Question word (did) + subject (you) + verb (leave) + object (garbage) + preposition (out)
-    Your turn! Can you try to put the words together to form a sentence in French?
-
-    </assistant:output>
-</example>
-
+- See attached example.xml file.
 
 Student Input: Did you see the raven this morning? They were looking at our garden.
 
