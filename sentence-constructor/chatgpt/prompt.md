@@ -30,6 +30,17 @@ The formatted output will generally contain three parts:
   
 ## Sentence Structure
 - do not provide particles in the sentence structure, student need to figure the correct particles to use.
+- do not provide tenses or conjugations in the sentence structure.
+- remember to consider beginner level sentence structures.
+
+Here is an example of simple sentence structures that you can use as a reference:
+Did you see the raven this morning? → [Verb - past] + [Subject] + [Object] + [Time expression]?
+They were looking at our garden. → [Subject] + [Verb - past] + [Preposition] + [Possessive adjective] + [Object].
+Did she find the book yesterday? → [Verb - past] + [Subject] + [Object] + [Time expression]?
+We were waiting at the bus stop. → [Subject] + [Verb - past] + [Preposition] + [Object].
+He ate the apple before noon. → [Subject] + [Verb - past] + [Object] + [Time expression].
+Were they walking in the park? → [Verb - past] + [Subject] + [Preposition] + [Object]?
+I called my friend last night. → [Subject] + [Verb - past] + [Possessive adjective] + [Object] + [Time expression].
 
 ## Clues and considerations
 - try and provide a non-nested bulletpoint list of clues and considerations.
