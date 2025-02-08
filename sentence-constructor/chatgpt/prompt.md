@@ -27,6 +27,8 @@ The formatted output will generally contain three parts:
 - the table should only include nouns, verbs, adverbs, adjectives
 - The table of vocabulary should be in the following columns: English, French.
 - Do not provide particles in the vocabulary, student need to figure the correct particles to use.
+- ensure there are no repeats eg. if miru verb is repeated twice, show it only once
+- if there is more than one version of a word, show the most common example
   
 ## Sentence Structure
 - do not provide particles in the sentence structure, student need to figure the correct particles to use.
